@@ -1,0 +1,264 @@
+{"frames": {
+"msg_panel":
+{
+	"frame": {"x":0,"y":0,"w":629,"h":299},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":629,"h":299},
+	"sourceSize": {"w":629,"h":299}
+}
+,"msg_plashka":
+{
+	"frame": {"x":0,"y":307,"w":558,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":558,"h":66},
+	"sourceSize": {"w":558,"h":66}
+}
+,"msg_nm_pl":
+{
+	"frame": {"x":0,"y":381,"w":532,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":532,"h":67},
+	"sourceSize": {"w":532,"h":67}
+}
+,"msg_btn_replay":
+{
+	"frame": {"x":637,"y":0,"w":349,"h":128},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":352,"h":131},
+	"sourceSize": {"w":352,"h":131}
+}
+,"msg_btn_cont":
+{
+	"frame": {"x":637,"y":136,"w":349,"h":128},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":352,"h":131},
+	"sourceSize": {"w":352,"h":131}
+}
+,"msg_btn_rep":
+{
+	"frame": {"x":637,"y":136,"w":349,"h":128},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":352,"h":131},
+	"sourceSize": {"w":352,"h":131}
+}
+,"msg_btn_apply":
+{
+	"frame": {"x":637,"y":136,"w":349,"h":128},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":352,"h":131},
+	"sourceSize": {"w":352,"h":131}
+}
+,"msg_btn_buy":
+{
+	"frame": {"x":667,"y":272,"w":349,"h":128},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":352,"h":131},
+	"sourceSize": {"w":352,"h":131}
+}
+,"msg_bck":
+{
+	"frame": {"x":540,"y":408,"w":232,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":232,"h":66},
+	"sourceSize": {"w":232,"h":66}
+}
+,"msg_coin_plashka":
+{
+	"frame": {"x":780,"y":408,"w":154,"h":128},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":157,"h":131},
+	"sourceSize": {"w":157,"h":131}
+}
+,"msg_btn_back":
+{
+	"frame": {"x":0,"y":456,"w":154,"h":128},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":157,"h":131},
+	"sourceSize": {"w":157,"h":131}
+}
+,"msg_btn_skin":
+{
+	"frame": {"x":162,"y":456,"w":126,"h":128},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":129,"h":131},
+	"sourceSize": {"w":129,"h":131}
+}
+,"msg_btn_l":
+{
+	"frame": {"x":296,"y":456,"w":126,"h":128},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":129,"h":131},
+	"sourceSize": {"w":129,"h":131}
+}
+,"msg_back_tab_0":
+{
+	"frame": {"x":430,"y":482,"w":126,"h":128},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":129,"h":131},
+	"sourceSize": {"w":129,"h":131}
+}
+,"msg_btn_r":
+{
+	"frame": {"x":698,"y":544,"w":126,"h":128},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":129,"h":131},
+	"sourceSize": {"w":129,"h":131}
+}
+,"msg_back_tab_1":
+{
+	"frame": {"x":564,"y":482,"w":126,"h":128},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":129,"h":131},
+	"sourceSize": {"w":129,"h":131}
+}
+,"msg_btn_person_l":
+{
+	"frame": {"x":296,"y":456,"w":126,"h":128},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":129,"h":131},
+	"sourceSize": {"w":129,"h":131}
+}
+,"msg_btn_person_r":
+{
+	"frame": {"x":698,"y":544,"w":126,"h":128},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":129,"h":131},
+	"sourceSize": {"w":129,"h":131}
+}
+,"msg_btn_tab_0":
+{
+	"frame": {"x":832,"y":544,"w":110,"h":110},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":110},
+	"sourceSize": {"w":110,"h":110}
+}
+,"msg_btn_tab_1":
+{
+	"frame": {"x":0,"y":592,"w":110,"h":110},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":110},
+	"sourceSize": {"w":110,"h":110}
+}
+,"main_finger":
+{
+	"frame": {"x":566,"y":307,"w":68,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":68,"h":89},
+	"sourceSize": {"w":68,"h":89}
+}
+,"msg_lock":
+{
+	"frame": {"x":118,"y":592,"w":75,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":75,"h":78},
+	"sourceSize": {"w":75,"h":78}
+}
+,"msg_selected":
+{
+	"frame": {"x":201,"y":592,"w":77,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":77,"h":65},
+	"sourceSize": {"w":77,"h":65}
+}
+,"msg_part_1":
+{
+	"frame": {"x":950,"y":408,"w":51,"h":47},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":47},
+	"sourceSize": {"w":51,"h":47}
+}
+,"msg_part_3":
+{
+	"frame": {"x":950,"y":463,"w":51,"h":47},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":47},
+	"sourceSize": {"w":51,"h":47}
+}
+,"msg_part_0":
+{
+	"frame": {"x":698,"y":482,"w":51,"h":47},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":47},
+	"sourceSize": {"w":51,"h":47}
+}
+,"msg_part_2":
+{
+	"frame": {"x":950,"y":518,"w":51,"h":47},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":47},
+	"sourceSize": {"w":51,"h":47}
+}
+,"msg_part_4":
+{
+	"frame": {"x":950,"y":573,"w":51,"h":47},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":47},
+	"sourceSize": {"w":51,"h":47}
+}
+,"msg_coin_ico":
+{
+	"frame": {"x":286,"y":592,"w":42,"h":41},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":42,"h":41},
+	"sourceSize": {"w":42,"h":41}
+}
+,"msg_coin":
+{
+	"frame": {"x":286,"y":592,"w":42,"h":41},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":42,"h":41},
+	"sourceSize": {"w":42,"h":41}
+}
+,"msg_compl":
+{
+	"frame": {"x":336,"y":592,"w":31,"h":26},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":31,"h":26},
+	"sourceSize": {"w":31,"h":26}
+}
+,"main_cur":
+{
+	"frame": {"x":994,"y":0,"w":0,"h":0},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":1,"h":1},
+	"sourceSize": {"w":1,"h":1}
+}
+},"meta": {
+	"app": "AVK_tools",
+	"version": "1.0",
+	"image": "pics/images_0.png?ver=1",
+	"format": "RGBA8888",
+	"scale": "1"
+}}
