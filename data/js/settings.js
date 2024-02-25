@@ -26,7 +26,7 @@ PROJECT.DAT=new function()
     here.sounds = ["click","nil"];
     
     for(var i=0;i<here.gui_images_cnt;i++)
-        here.assets["images_"+i]="https://cdn.jsdelivr.net/gh/classroom-google-new/gologld@main/data/gui/images_"+i+".json";
+        here.assets["images_"+i]="https://cdn.jsdelivr.net/gh/classroom-google-new/gologld@main/data/gui/images_"+i+"https://cdn.jsdelivr.net/gh/classroom-google-new/gologld@main/data/.json";
 
     here.level={};
     here.levels_num=20;
